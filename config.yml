@@ -1,0 +1,6 @@
+development:
+   theme_id: 84758003843
+   password: <<deleted>>
+   store: kctmenswear.myshopify.com
+   bucket_size: 40
+   refill_rate: 2
